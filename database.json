@@ -1,0 +1,273 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "fullName": "Dion Stoade",
+      "email": "dstoade0@cornell.edu",
+      "isStaff": false
+    },
+    {
+      "id": 2,
+      "fullName": "Windy Thorneloe",
+      "email": "wthorneloe1@usa.gov",
+      "isStaff": false
+    },
+    {
+      "id": 3,
+      "fullName": "Hillie Phillpotts",
+      "email": "hphillpotts2@rakuten.co.jp",
+      "isStaff": false
+    },
+    {
+      "id": 4,
+      "fullName": "Helenelizabeth Passfield",
+      "email": "hpassfield7@netvibes.com",
+      "isStaff": true
+    },
+    {
+      "id": 5,
+      "fullName": "Franchot Slator",
+      "email": "fslator8@51.la",
+      "isStaff": true
+    },
+    {
+      "id": 6,
+      "fullName": "Renaud Erbe",
+      "email": "rerbe9@psu.edu",
+      "isStaff": true
+    },
+    {
+      "email": "jeremy@bakker.com",
+      "fullName": "Jeremy Bakker",
+      "isStaff": true,
+      "id": 7
+    },
+    {
+      "email": "bookman@gmail.com",
+      "fullName": "Brandon Billy",
+      "isStaff": false,
+      "id": 8
+    },
+    {
+      "email": "keyun123@gmail.com",
+      "fullName": "SaTonya Cox",
+      "isStaff": false,
+      "id": 9
+    },
+    {
+      "email": "sethlewis@gmail.com",
+      "fullName": "Seth Lewis",
+      "isStaff": false,
+      "id": 10
+    },
+    {
+      "email": "mrmackdavid@gmail.com",
+      "fullName": "Mack David",
+      "isStaff": false,
+      "id": 11
+    }
+  ],
+  "philosophers": [
+    {
+      "id": 1,
+      "name": "Rene Descartes",
+      "school": "Cartesianism",
+      "imageURL": "https://cdn.britannica.com/62/176962-050-4BC9F588/Rene-Descartes.jpg",
+      "Life": "1596 - 1650"
+    },
+    {
+      "id": 2,
+      "name": "Immanuel Kant",
+      "school": "Kantianism",
+      "imageURL": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Kant_gemaelde_3.jpg",
+      "Life": "1724 - 1804"
+    },
+    {
+      "id": 3,
+      "name": "Plato",
+      "school": "Platonism",
+      "imageURL": "https://upload.wikimedia.org/wikipedia/commons/8/88/Plato_Silanion_Musei_Capitolini_MC1377.jpg",
+      "Life": "BC 428 - BC 347"
+    },
+    {
+      "id": 4,
+      "name": "Aristotle",
+      "school": "Aristotelianism",
+      "imageURL": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Aristotle_Altemps_Inv8575.jpg",
+      "Life": "BC 384 - BC 322"
+    },
+    {
+      "id": 5,
+      "name": "Friedrich Nietzsche",
+      "school": "Continental Philosophy",
+      "imageURL": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Nietzsche187a.jpg",
+      "Life": "1844 - 1900"
+    },
+    {
+      "id": 6,
+      "name": "St. Augustine",
+      "school": "Augustianism",
+      "imageURL": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Saint_Augustine_by_Philippe_de_Champaigne.jpg",
+      "Life": "354-430"
+    },
+    {
+      "id": 7,
+      "name": "Ludwig Wittgenstein",
+      "school": "Logical Atomism (early)",
+      "imageURL": "https://upload.wikimedia.org/wikipedia/commons/6/60/35._Portrait_of_Wittgenstein.jpg",
+      "Life": "1889-1951"
+    },
+    {
+      "id": 8,
+      "name": "Martin Heidegger",
+      "school": "Phenomenology",
+      "imageURL": "https://upload.wikimedia.org/wikipedia/commons/6/64/Heidegger_2_%281960%29.jpg",
+      "Life": "1889-1976"
+    },
+    {
+      "id": 9,
+      "name": "Jean-Paul Sartre",
+      "school": "Existentialism",
+      "imageURL": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Sartre_1967_crop.jpg",
+      "Life": "1905-1980"
+    },
+    {
+      "id": 10,
+      "name": "Marcus Aurelius",
+      "school": "Stoicism",
+      "imageURL": "https://upload.wikimedia.org/wikipedia/commons/e/ec/MSR-ra-61-b-1-DM.jpg",
+      "Life": "121-180"
+    },
+    {
+      "id": 11,
+      "name": "David Hume",
+      "school": "Skepticism",
+      "imageURL": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Painting_of_David_Hume.jpg",
+      "Life": "1711-1776"
+    },
+    {
+      "id": 12,
+      "name": "Alfred North Whitehead",
+      "school": "Process Philosophy",
+      "imageURL": "https://upload.wikimedia.org/wikipedia/en/6/61/Alfred_North_Whitehead_in_1936.jpg",
+      "Life": "1861-1947"
+    },
+    {
+      "id": 13,
+      "name": "Michel Foucalt",
+      "school": "Post-Structuralism",
+      "imageURL": "https://images.theconversation.com/files/228971/original/file-20180724-189310-2zc9v7.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=754&h=927&fit=crop&dpr=1",
+      "Life": "1926-1984"
+    },
+    {
+      "id": 14,
+      "name": "William James",
+      "school": "Pragmatism",
+      "imageURL": "https://upload.wikimedia.org/wikipedia/commons/9/9c/William_James_b1842c.jpg",
+      "Life": "1842-1910"
+    },
+    {
+      "id": 15,
+      "name": "Simone de Beauvoir",
+      "school": "Existentialism",
+      "imageURL": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Simone_de_Beauvoir2.png",
+      "Life": "1908-1986"
+    },
+    {
+      "id": 16,
+      "name": "Simone Weil",
+      "school": "Christian Socialism",
+      "imageURL": "https://upload.wikimedia.org/wikipedia/commons/2/23/Simone_Weil_04_%28cropped%29.png",
+      "Life": "1909-1943"
+    },
+    {
+      "id": 17,
+      "name": "Mary Wollstonecraft",
+      "school": "Early Feminism",
+      "imageURL": "https://upload.wikimedia.org/wikipedia/commons/3/36/Mary_Wollstonecraft_by_John_Opie_%28c._1797%29.jpg",
+      "Life": "1759-1797"
+    },
+    {
+      "id": 18,
+      "name": "Iain McGilchrist",
+      "school": "Process Philosophy",
+      "imageURL": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Iain_McGilchrist.png",
+      "Life": "1953-"
+    },
+    {
+      "id": 19,
+      "name": "Plotinus",
+      "school": "Platonism",
+      "imageURL": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Plotinos.jpg",
+      "Life": "204-270"
+    }
+  ],
+  "favoritePhilosophers": [
+    {
+      "philosopherId": 1,
+      "userId": 2,
+      "id": 16
+    }
+  ],
+  "comments": [
+    {
+      "content": "no",
+      "id": 3
+    },
+    {
+      "userId": 4,
+      "content": "ppppp",
+      "id": 4
+    },
+    {
+      "content": "aww",
+      "userId": 4,
+      "id": 5
+    },
+    {
+      "userId": 4,
+      "content": "aaa",
+      "id": 6
+    },
+    {
+      "userId": 4,
+      "content": "llllll",
+      "id": 7
+    },
+    {
+      "userId": 4,
+      "content": "yyyyy",
+      "id": 8
+    },
+    {
+      "userId": 4,
+      "content": "nope",
+      "id": 9
+    },
+    {
+      "userId": 4,
+      "content": "yyy",
+      "id": 10
+    },
+    {
+      "userId": 4,
+      "content": "we lit",
+      "id": 11
+    },
+    {
+      "userId": 4,
+      "content": "uuuu",
+      "id": 12
+    },
+    {
+      "userId": 4,
+      "content": "gggggg",
+      "id": 13
+    },
+    {
+      "userId": 4,
+      "content": "maybe",
+      "id": 14
+    }
+  ]
+}
